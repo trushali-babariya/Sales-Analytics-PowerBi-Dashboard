@@ -47,8 +47,8 @@ Designed using modern card-style layout for better readability.
 ---
 
 ## 🖼️ Dashboard Preview  
-👉 Upload your screenshots in a folder named **Screenshots**  
-👉 Then update the image names below
+
+👉 ![Dashboard Overview](Dashboard_img.jpeg)
 
 
 ---
